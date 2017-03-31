@@ -1,0 +1,15 @@
+C:\Users\Bruno\documents\visual studio 2015\Projects\Basketball\Basketball\obj\x86\Debug\Basketball.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Documents\Visual Studio 2015\Projects\Basketball\Basketball\bin\DesktopGL\x86\Debug\Content\BasketBall.png
+C:\Users\Bruno\Documents\Visual Studio 2015\Projects\Basketball\Basketball\bin\DesktopGL\x86\Debug\Content\Looser.jpg
+C:\Users\Bruno\Documents\Visual Studio 2015\Projects\Basketball\Basketball\bin\DesktopGL\x86\Debug\Content\Me.png
+C:\Users\Bruno\Documents\Visual Studio 2015\Projects\Basketball\Basketball\bin\DesktopGL\x86\Debug\Content\Soccer.xnb
+C:\Users\Bruno\Documents\Visual Studio 2015\Projects\Basketball\Basketball\bin\DesktopGL\x86\Debug\Content\Winner.xnb
+C:\Users\Bruno\Documents\Visual Studio 2015\Projects\Basketball\Basketball\bin\DesktopGL\x86\Debug\OpenTK.dll.config
+C:\Users\Bruno\Documents\Visual Studio 2015\Projects\Basketball\Basketball\bin\DesktopGL\x86\Debug\Basketball.exe
+C:\Users\Bruno\Documents\Visual Studio 2015\Projects\Basketball\Basketball\bin\DesktopGL\x86\Debug\Basketball.pdb
+C:\Users\Bruno\Documents\Visual Studio 2015\Projects\Basketball\Basketball\bin\DesktopGL\x86\Debug\MonoGame.Framework.dll
+C:\Users\Bruno\Documents\Visual Studio 2015\Projects\Basketball\Basketball\bin\DesktopGL\x86\Debug\NVorbis.dll
+C:\Users\Bruno\Documents\Visual Studio 2015\Projects\Basketball\Basketball\bin\DesktopGL\x86\Debug\OpenTK.dll
+C:\Users\Bruno\Documents\Visual Studio 2015\Projects\Basketball\Basketball\obj\x86\Debug\Basketball.exe
+C:\Users\Bruno\Documents\Visual Studio 2015\Projects\Basketball\Basketball\obj\x86\Debug\Basketball.pdb
+C:\Users\Bruno\Documents\Visual Studio 2015\Projects\Basketball\Basketball\bin\DesktopGL\x86\Debug\Content\Arial.xnb
