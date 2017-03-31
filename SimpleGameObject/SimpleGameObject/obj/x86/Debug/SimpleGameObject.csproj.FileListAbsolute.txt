@@ -1,0 +1,13 @@
+c:\users\bruno\documents\visual studio 2015\Projects\SimpleGameObject\SimpleGameObject\obj\x86\Debug\SimpleGameObject.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\documents\visual studio 2015\Projects\SimpleGameObject\SimpleGameObject\bin\DesktopGL\x86\Debug\OpenTK.dll.config
+C:\Users\Bruno\documents\visual studio 2015\Projects\SimpleGameObject\SimpleGameObject\bin\DesktopGL\x86\Debug\SimpleGameObject.exe
+C:\Users\Bruno\documents\visual studio 2015\Projects\SimpleGameObject\SimpleGameObject\bin\DesktopGL\x86\Debug\SimpleGameObject.pdb
+C:\Users\Bruno\documents\visual studio 2015\Projects\SimpleGameObject\SimpleGameObject\bin\DesktopGL\x86\Debug\MonoGame.Framework.dll
+C:\Users\Bruno\documents\visual studio 2015\Projects\SimpleGameObject\SimpleGameObject\bin\DesktopGL\x86\Debug\NVorbis.dll
+C:\Users\Bruno\documents\visual studio 2015\Projects\SimpleGameObject\SimpleGameObject\bin\DesktopGL\x86\Debug\OpenTK.dll
+C:\Users\Bruno\documents\visual studio 2015\Projects\SimpleGameObject\SimpleGameObject\obj\x86\Debug\SimpleGameObject.exe
+C:\Users\Bruno\documents\visual studio 2015\Projects\SimpleGameObject\SimpleGameObject\obj\x86\Debug\SimpleGameObject.pdb
+C:\Users\Bruno\documents\visual studio 2015\Projects\SimpleGameObject\SimpleGameObject\bin\DesktopGL\x86\Debug\Content\UWB-JPG.jpg
+C:\Users\Bruno\documents\visual studio 2015\Projects\SimpleGameObject\SimpleGameObject\bin\DesktopGL\x86\Debug\Content\UWB-PNG.png
+C:\Users\Bruno\documents\visual studio 2015\Projects\SimpleGameObject\SimpleGameObject\bin\DesktopGL\x86\Debug\Content\Arial.xnb
+C:\Users\Bruno\documents\visual studio 2015\Projects\SimpleGameObject\SimpleGameObject\bin\DesktopGL\x86\Debug\Content\Soccer.png

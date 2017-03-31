@@ -1,0 +1,11 @@
+C:\Users\Bruno\documents\visual studio 2015\Projects\SimpleGameObject\SimpleGameObject\bin\DesktopGL\x86\Release\Content\UWB-JPG.jpg
+C:\Users\Bruno\documents\visual studio 2015\Projects\SimpleGameObject\SimpleGameObject\bin\DesktopGL\x86\Release\Content\UWB-PNG.png
+C:\Users\Bruno\documents\visual studio 2015\Projects\SimpleGameObject\SimpleGameObject\bin\DesktopGL\x86\Release\Content\Arial.xnb
+C:\Users\Bruno\documents\visual studio 2015\Projects\SimpleGameObject\SimpleGameObject\bin\DesktopGL\x86\Release\OpenTK.dll.config
+C:\Users\Bruno\documents\visual studio 2015\Projects\SimpleGameObject\SimpleGameObject\bin\DesktopGL\x86\Release\SimpleGameObject.exe
+C:\Users\Bruno\documents\visual studio 2015\Projects\SimpleGameObject\SimpleGameObject\bin\DesktopGL\x86\Release\SimpleGameObject.pdb
+C:\Users\Bruno\documents\visual studio 2015\Projects\SimpleGameObject\SimpleGameObject\bin\DesktopGL\x86\Release\MonoGame.Framework.dll
+C:\Users\Bruno\documents\visual studio 2015\Projects\SimpleGameObject\SimpleGameObject\bin\DesktopGL\x86\Release\NVorbis.dll
+C:\Users\Bruno\documents\visual studio 2015\Projects\SimpleGameObject\SimpleGameObject\bin\DesktopGL\x86\Release\OpenTK.dll
+C:\Users\Bruno\documents\visual studio 2015\Projects\SimpleGameObject\SimpleGameObject\obj\x86\Release\SimpleGameObject.exe
+C:\Users\Bruno\documents\visual studio 2015\Projects\SimpleGameObject\SimpleGameObject\obj\x86\Release\SimpleGameObject.pdb
