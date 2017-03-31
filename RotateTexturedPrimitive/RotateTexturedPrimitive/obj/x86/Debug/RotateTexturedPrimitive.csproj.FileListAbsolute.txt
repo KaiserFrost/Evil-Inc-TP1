@@ -1,0 +1,12 @@
+c:\users\bruno\documents\visual studio 2015\Projects\RotateTexturedPrimitive\RotateTexturedPrimitive\obj\x86\Debug\RotateTexturedPrimitive.csprojResolveAssemblyReference.cache
+c:\users\bruno\documents\visual studio 2015\Projects\RotateTexturedPrimitive\RotateTexturedPrimitive\bin\DesktopGL\x86\Debug\OpenTK.dll.config
+c:\users\bruno\documents\visual studio 2015\Projects\RotateTexturedPrimitive\RotateTexturedPrimitive\bin\DesktopGL\x86\Debug\RotateTexturedPrimitive.exe
+c:\users\bruno\documents\visual studio 2015\Projects\RotateTexturedPrimitive\RotateTexturedPrimitive\bin\DesktopGL\x86\Debug\RotateTexturedPrimitive.pdb
+c:\users\bruno\documents\visual studio 2015\Projects\RotateTexturedPrimitive\RotateTexturedPrimitive\bin\DesktopGL\x86\Debug\MonoGame.Framework.dll
+c:\users\bruno\documents\visual studio 2015\Projects\RotateTexturedPrimitive\RotateTexturedPrimitive\bin\DesktopGL\x86\Debug\NVorbis.dll
+c:\users\bruno\documents\visual studio 2015\Projects\RotateTexturedPrimitive\RotateTexturedPrimitive\bin\DesktopGL\x86\Debug\OpenTK.dll
+c:\users\bruno\documents\visual studio 2015\Projects\RotateTexturedPrimitive\RotateTexturedPrimitive\obj\x86\Debug\RotateTexturedPrimitive.exe
+c:\users\bruno\documents\visual studio 2015\Projects\RotateTexturedPrimitive\RotateTexturedPrimitive\obj\x86\Debug\RotateTexturedPrimitive.pdb
+c:\users\bruno\documents\visual studio 2015\Projects\RotateTexturedPrimitive\RotateTexturedPrimitive\bin\DesktopGL\x86\Debug\Content\Arial.xnb
+c:\users\bruno\documents\visual studio 2015\Projects\RotateTexturedPrimitive\RotateTexturedPrimitive\bin\DesktopGL\x86\Debug\Content\Soccer.xnb
+c:\users\bruno\documents\visual studio 2015\Projects\RotateTexturedPrimitive\RotateTexturedPrimitive\bin\DesktopGL\x86\Debug\Content\UWB-JPG.xnb
