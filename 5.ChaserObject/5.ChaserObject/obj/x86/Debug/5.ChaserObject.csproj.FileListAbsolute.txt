@@ -1,0 +1,13 @@
+C:\Users\Bruno\Documents\Visual Studio 2015\Projects\Técnicas de programação\5.ChaserObject\5.ChaserObject\bin\DesktopGL\x86\Debug\Content\Arial.xnb
+C:\Users\Bruno\Documents\Visual Studio 2015\Projects\Técnicas de programação\5.ChaserObject\5.ChaserObject\bin\DesktopGL\x86\Debug\Content\Arrow.xnb
+C:\Users\Bruno\Documents\Visual Studio 2015\Projects\Técnicas de programação\5.ChaserObject\5.ChaserObject\bin\DesktopGL\x86\Debug\Content\Chaser.xnb
+C:\Users\Bruno\Documents\Visual Studio 2015\Projects\Técnicas de programação\5.ChaserObject\5.ChaserObject\bin\DesktopGL\x86\Debug\Content\Rocket.xnb
+C:\Users\Bruno\Documents\Visual Studio 2015\Projects\Técnicas de programação\5.ChaserObject\5.ChaserObject\bin\DesktopGL\x86\Debug\OpenTK.dll.config
+C:\Users\Bruno\Documents\Visual Studio 2015\Projects\Técnicas de programação\5.ChaserObject\5.ChaserObject\bin\DesktopGL\x86\Debug\5.ChaserObject.exe
+C:\Users\Bruno\Documents\Visual Studio 2015\Projects\Técnicas de programação\5.ChaserObject\5.ChaserObject\bin\DesktopGL\x86\Debug\5.ChaserObject.pdb
+C:\Users\Bruno\Documents\Visual Studio 2015\Projects\Técnicas de programação\5.ChaserObject\5.ChaserObject\bin\DesktopGL\x86\Debug\MonoGame.Framework.dll
+C:\Users\Bruno\Documents\Visual Studio 2015\Projects\Técnicas de programação\5.ChaserObject\5.ChaserObject\bin\DesktopGL\x86\Debug\NVorbis.dll
+C:\Users\Bruno\Documents\Visual Studio 2015\Projects\Técnicas de programação\5.ChaserObject\5.ChaserObject\bin\DesktopGL\x86\Debug\OpenTK.dll
+C:\Users\Bruno\Documents\Visual Studio 2015\Projects\Técnicas de programação\5.ChaserObject\5.ChaserObject\obj\x86\Debug\5.ChaserObject.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Documents\Visual Studio 2015\Projects\Técnicas de programação\5.ChaserObject\5.ChaserObject\obj\x86\Debug\5.ChaserObject.exe
+C:\Users\Bruno\Documents\Visual Studio 2015\Projects\Técnicas de programação\5.ChaserObject\5.ChaserObject\obj\x86\Debug\5.ChaserObject.pdb
