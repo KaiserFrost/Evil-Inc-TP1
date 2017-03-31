@@ -1,0 +1,8 @@
+c:\users\bruno\documents\visual studio 2015\Projects\GameWindowSize\GameWindowSize\bin\DesktopGL\x86\Debug\OpenTK.dll.config
+c:\users\bruno\documents\visual studio 2015\Projects\GameWindowSize\GameWindowSize\bin\DesktopGL\x86\Debug\GameWindowSize.exe
+c:\users\bruno\documents\visual studio 2015\Projects\GameWindowSize\GameWindowSize\bin\DesktopGL\x86\Debug\GameWindowSize.pdb
+c:\users\bruno\documents\visual studio 2015\Projects\GameWindowSize\GameWindowSize\bin\DesktopGL\x86\Debug\MonoGame.Framework.dll
+c:\users\bruno\documents\visual studio 2015\Projects\GameWindowSize\GameWindowSize\bin\DesktopGL\x86\Debug\NVorbis.dll
+c:\users\bruno\documents\visual studio 2015\Projects\GameWindowSize\GameWindowSize\bin\DesktopGL\x86\Debug\OpenTK.dll
+c:\users\bruno\documents\visual studio 2015\Projects\GameWindowSize\GameWindowSize\obj\x86\Debug\GameWindowSize.exe
+c:\users\bruno\documents\visual studio 2015\Projects\GameWindowSize\GameWindowSize\obj\x86\Debug\GameWindowSize.pdb
