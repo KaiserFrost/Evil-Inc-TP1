@@ -1,0 +1,13 @@
+C:\Users\Bruno\Documents\Visual Studio 2015\Projects\Técnicas de programação\FrontDirection\FrontDirection\obj\x86\Debug\FrontDirection.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Documents\Visual Studio 2015\Projects\Técnicas de programação\FrontDirection\FrontDirection\bin\DesktopGL\x86\Debug\OpenTK.dll.config
+C:\Users\Bruno\Documents\Visual Studio 2015\Projects\Técnicas de programação\FrontDirection\FrontDirection\bin\DesktopGL\x86\Debug\FrontDirection.exe
+C:\Users\Bruno\Documents\Visual Studio 2015\Projects\Técnicas de programação\FrontDirection\FrontDirection\bin\DesktopGL\x86\Debug\FrontDirection.pdb
+C:\Users\Bruno\Documents\Visual Studio 2015\Projects\Técnicas de programação\FrontDirection\FrontDirection\bin\DesktopGL\x86\Debug\MonoGame.Framework.dll
+C:\Users\Bruno\Documents\Visual Studio 2015\Projects\Técnicas de programação\FrontDirection\FrontDirection\bin\DesktopGL\x86\Debug\NVorbis.dll
+C:\Users\Bruno\Documents\Visual Studio 2015\Projects\Técnicas de programação\FrontDirection\FrontDirection\bin\DesktopGL\x86\Debug\OpenTK.dll
+C:\Users\Bruno\Documents\Visual Studio 2015\Projects\Técnicas de programação\FrontDirection\FrontDirection\obj\x86\Debug\FrontDirection.exe
+C:\Users\Bruno\Documents\Visual Studio 2015\Projects\Técnicas de programação\FrontDirection\FrontDirection\obj\x86\Debug\FrontDirection.pdb
+C:\Users\Bruno\Documents\Visual Studio 2015\Projects\Técnicas de programação\FrontDirection\FrontDirection\bin\DesktopGL\x86\Debug\Content\Arial.xnb
+C:\Users\Bruno\Documents\Visual Studio 2015\Projects\Técnicas de programação\FrontDirection\FrontDirection\bin\DesktopGL\x86\Debug\Content\Insect.xnb
+C:\Users\Bruno\Documents\Visual Studio 2015\Projects\Técnicas de programação\FrontDirection\FrontDirection\bin\DesktopGL\x86\Debug\Content\Net.xnb
+C:\Users\Bruno\Documents\Visual Studio 2015\Projects\Técnicas de programação\FrontDirection\FrontDirection\bin\DesktopGL\x86\Debug\Content\Rocket.xnb
